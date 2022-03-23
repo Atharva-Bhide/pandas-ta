@@ -6,6 +6,7 @@
 
 Pandas TA - A Technical Analysis Library in Python 3
 =================
+change made by me
 
 [![license](https://img.shields.io/github/license/twopirllc/pandas-ta)](#license)
 [![Python Version](https://img.shields.io/pypi/pyversions/pandas-ta?style=flat)](https://pypi.org/project/pandas_ta/)
